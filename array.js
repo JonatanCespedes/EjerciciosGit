@@ -1,1 +1,1 @@
-hola yo tambien soy un hacker
+let musicos = ["Charly García", "Luis Alberto Spinetta", "Gustavo Cerati"];
